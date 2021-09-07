@@ -1,1 +1,1 @@
-# js-watchit
+# JS Watchit
