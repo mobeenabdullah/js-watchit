@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/mobeenabdullah/js-watchit/issues"
   },
-  "homepage": "https://github.com/mobeenabdullah/js-watchit#readme"
+  "homepage": "https://github.com/mobeenabdullah/js-watchit#readme",
+  "dependencies": {
+    "chokidar": "^3.5.2"
+  }
 }
