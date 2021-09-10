@@ -1,1 +1,3 @@
-console.log('hi there');
+setInterval(function() {
+    console.log('hi there');
+}, 1000);
